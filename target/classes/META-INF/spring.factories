@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dongboy.service.DistributedLockService,\
+  com.dongboy.aspect.DongDistributedLockAspect
