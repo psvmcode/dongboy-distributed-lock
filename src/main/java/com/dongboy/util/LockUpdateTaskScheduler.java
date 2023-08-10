@@ -1,6 +1,5 @@
 package com.dongboy.util;
 
-import com.dongboy.annotation.DongDistributedLock;
 import com.dongboy.lock.DistributedLock;
 import lombok.extern.slf4j.Slf4j;
 

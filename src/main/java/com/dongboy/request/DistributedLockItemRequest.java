@@ -1,6 +1,5 @@
 package com.dongboy.request;
 
-import com.dongboy.result.DistributedLockResult;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
